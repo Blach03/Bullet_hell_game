@@ -10,3 +10,4 @@ asldkfjbhbaslf: 7
 pot: 40
 Gigapot: 64
 Kysix: 30
+Isen: 60
